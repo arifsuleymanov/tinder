@@ -14,7 +14,7 @@ create table messages
 );
 
 alter table messages
-    owner to vfqqrouexuyann;
+    owner to fnerjqwfyojtcl;
 
 create unique index messages_id_uindex
     on messages (id);
