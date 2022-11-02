@@ -13,7 +13,7 @@ create table users
 );
 
 alter table users
-    owner to vfqqrouexuyann;
+    owner to fnerjqwfyojtcl;
 
 create unique index users_id_uindex
     on users (id);
