@@ -13,7 +13,7 @@ create table likes
 );
 
 alter table likes
-    owner to vfqqrouexuyann;
+    owner to fnerjqwfyojtcl;
 
 create unique index likes_id_uindex
     on likes (id);
